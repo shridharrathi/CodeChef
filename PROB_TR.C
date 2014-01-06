@@ -1,3 +1,8 @@
+/*
+Name: Shridhar Rathi
+Date: 6th Jan 2013
+*/
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
